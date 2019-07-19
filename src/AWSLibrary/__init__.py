@@ -1,4 +1,4 @@
-from AWSLibrary.keywords import SessionManager, S3Manger
+from AWSLibrary.Keywords import SessionManager, S3Manger
 from AWSLibrary.version import get_version
 
 
